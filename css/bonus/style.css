@@ -1,0 +1,90 @@
+   *{
+    margin: 0px;
+    box-sizing: border-box;
+    font-weight: bold;
+    width: 1000px;
+    }
+    #sfondohd{
+        background-image: url(../img/pattern.png); 
+        background-color: rgb(62, 155, 186); 
+        height: 100px;
+        position: relative;
+        width: 1000px;
+        }
+    #logo{
+        width: 200px;
+        height: 70px;
+        position: absolute;
+        bottom: 0px;
+        left: 0px;   
+        }
+    .centratura{
+        display: block;
+        margin: auto;
+        width: 60%;
+    }
+    h1{
+        font-size: 35px;
+    }    
+
+    .autore{
+        color: grey;
+        font-size: 15px;
+    }
+    #link{
+        text-decoration: none;
+        color: blue;
+    }
+    .descrizioni{
+        margin-top: 0px;
+        font-size: 12px;
+    }
+    .articolo{
+        width: 1000px;  
+    }
+    #lista{
+        padding-left: 16px;
+    }
+    table{
+        text-align: left;
+        width: 1000px;
+    }
+    .small-cell{
+        width: 25%
+    }
+    .big-cell{
+        width: 50%;
+    }
+    .testa{
+        background-color: blue;
+        color: white;
+    }
+    .corpoazzurro{
+        background-color: aqua;
+        border-color: aqua;
+    }
+    h4{
+        color: gray;
+    }
+    .suggerimento1{
+        height: 150px;
+        width: 150px;
+        background-image: url(../img/monitor.jpg);
+        position: relative;
+        
+    }
+    .suggerimento2{
+        height: 150px;
+        width: 150px;
+        background-image: url(../img/graph.jpg);
+        margin-top: 20px;
+        position: relative;
+    }
+    .anchor{
+        text-decoration: none;
+        color: white;
+        font-size: 15px;
+        position: absolute;
+        left: 10%;
+        top: 10%;
+    }

@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+#sfondohd{
+    background-image: url(../img/pattern.png); 
+    background-color: rgb(62, 155, 186); 
+    height: 100px;
+    position: relative;
+    }
+ #logo{
+    width: 200px;
+    height: 70px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+        
+    }

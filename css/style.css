@@ -1,7 +1,8 @@
    *{
     box-sizing: border-box;
-   }
-   #sfondohd{
+    font-weight: bold;
+    }
+    #sfondohd{
         background-image: url(../img/pattern.png); 
         background-color: rgb(62, 155, 186); 
         width: 1000px;
@@ -33,7 +34,9 @@
         font-size: 12px;
     }
     .articolo{
-        width: 1000px;
-        
+        width: 1000px;  
+    }
+    #lista{
+        padding-left: 16px;
     }
     

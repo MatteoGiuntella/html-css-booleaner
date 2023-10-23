@@ -1,12 +1,13 @@
-    *{
-        box-sizing: border-box;
-    }
-    #sfondohd{
+   *{
+    box-sizing: border-box;
+   }
+   #sfondohd{
         background-image: url(../img/pattern.png); 
         background-color: rgb(62, 155, 186); 
+        width: 1000px;
         height: 100px;
         position: relative;
-        mar
+        
         }
     #logo{
         width: 200px;
@@ -30,5 +31,9 @@
     .descrizioni{
         margin-top: 0px;
         font-size: 12px;
+    }
+    .articolo{
+        width: 1000px;
+        
     }
     

@@ -47,6 +47,12 @@
     }
     .big-cell{
         width: 50%;
-    
     }
-    
+    .testa{
+        background-color: blue;
+        color: white;
+    }
+    .corpoazzurro{
+        background-color: aqua;
+        border-color: aqua;
+    }

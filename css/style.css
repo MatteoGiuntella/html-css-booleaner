@@ -5,7 +5,6 @@
     #sfondohd{
         background-image: url(../img/pattern.png); 
         background-color: rgb(62, 155, 186); 
-        width: 1000px;
         height: 100px;
         position: relative;
         
@@ -38,5 +37,16 @@
     }
     #lista{
         padding-left: 16px;
+    }
+    table{
+        text-align: left;
+        width: 1000px;
+    }
+    .small-cell{
+        width: 25%
+    }
+    .big-cell{
+        width: 50%;
+    
     }
     
